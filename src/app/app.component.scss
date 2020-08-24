@@ -1,0 +1,15 @@
+@import '../scss/index.scss';
+.topo{
+  background-color: $dragon!important;
+  color: $colorless;
+  display: flex;
+  justify-content: center;
+
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  #mat-input-0 {
+    background-color: #fff!important;
+  };
+}
